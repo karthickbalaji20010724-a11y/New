@@ -8,6 +8,7 @@ To use the secret resource, you'll need first create a service account and assoc
 
 # Contributing
 # This is new code ####
+# Adding new line
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
